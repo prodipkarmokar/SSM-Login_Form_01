@@ -179,12 +179,13 @@ body {
 }
 .facebook img{
           
-    float: right;  
-    width: 45px;   
-    height: 45px;  
-    margin-top: 3px;  
-    margin-right: 5px;   
+    float: right;
+    width: 45px;
+    height: 45px;
+    margin-top: 2px;
+    margin-right: 8px;
     border-radius: 30px;
+}
     
 }
 /* ============== */
